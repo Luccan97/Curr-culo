@@ -3,7 +3,7 @@
 ###### E-mail: luccanielsen97@gmail.com     /     celular: (11) 945699502
 
 ### Formação acadêmica:
-Aluno de graduação da Faculdade de Saúde Pública da Universidade de São Paulo (USP)<br> 
+Graduação em Saúde Pública pela Universidade de São Paulo (USP)<br> 
 <h5> Início: 01/02/2019 | Término: 31/12/2022. Aqui está o meu <a href="https://github.com/Luccan97/Curriculo/blob/main/historicoescolarListar.pdf" target="_blank">Histórico Escolar</a>. </h5>
 
 ### Conhecimentos:
@@ -23,7 +23,7 @@ Aluno de graduação da Faculdade de Saúde Pública da Universidade de São Pau
 
 - Estagiário na Coordenação de Epidemiologia e Informação da Secretária Municipal de Saúde
 ##### 01/2020 - Atual
-#### Descrição: Análise de dados dos diversos sistemas de informação que subsidiam as decisões dentro da gestão da Prefeitura Municipal, tais como Sistema de Informação de Mortalidade (SIM), Sistema de Informação de Nascidos Vivos (SINASC), Sistema de Informações Ambulatoriais (SIA). Qualificação das informações a partir da construção de indicadores de saúde, técnicas de geoprocessamento e mapeamento e análises temporais e espaciais. Como exemplo, <a href="https://github.com/Luccan97/Curriculo/blob/main/Mapa_praticas_corporais.pdf" target="_blank">Mapa de práticas corporais e atividade física por estabelecimentos de saúde no município de São Paulo</a> elaborado durante o estágio.
+#### *Descrição*: Análise de dados dos diversos sistemas de informação que subsidiam as decisões dentro da gestão da Prefeitura Municipal, tais como Sistema de Informação de Mortalidade (SIM), Sistema de Informação de Nascidos Vivos (SINASC), Sistema de Informações Ambulatoriais (SIA). Qualificação das informações a partir da construção de indicadores de saúde, técnicas de geoprocessamento e mapeamento e análises temporais e espaciais. Como exemplo, <a href="https://github.com/Luccan97/Curriculo/blob/main/Mapa_praticas_corporais.pdf" target="_blank">Mapa de práticas corporais e atividade física por estabelecimentos de saúde no município de São Paulo</a> elaborado durante o estágio.
 
 
 
