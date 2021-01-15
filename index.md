@@ -1,7 +1,7 @@
 ## Lucca Nielsen
 ### Análise de dados epidemiológicos e informações em saúde
 ###### E-mail: luccanielsen97@gmail.com     /     celular: (11) 945699502
-
+___
 ### Formação acadêmica:
 Graduação em Saúde Pública pela Universidade de São Paulo (USP)<br> 
 <h5> Início: 01/02/2019 | Término: 31/12/2022. Aqui está o meu <a href="https://github.com/Luccan97/Curriculo/blob/main/historicoescolarListar.pdf" target="_blank">Histórico Escolar</a>. </h5>
@@ -14,11 +14,13 @@ Graduação em Saúde Pública pela Universidade de São Paulo (USP)<br>
 - Pacote Office (Excel, Word, PowerPoint)
 - Inglês avançado
 
+___
+
 ### Formação complementar:
 - Análise de dados epidemiológicos, módulo EpiData (Faculdade de Medicina da Universidade de São Paulo FMUSP)
 - Clustering Geolocation Data Intelligently in Python ([Certificado](https://www.coursera.org/account/accomplishments/certificate/W6BD8XHJXX3Y))
 - The Data Scientist’s Toolbox, Universidade Johns Hopkins ([Cerficiado](https://www.coursera.org/account/accomplishments/verify/HGXFJNW43WQZ))
-
+___
 ### Experiência profissional:
 
 - **Estagiário na Coordenação de Epidemiologia e Informação da Secretária Municipal de Saúde (SMS)**
@@ -32,3 +34,9 @@ Graduação em Saúde Pública pela Universidade de São Paulo (USP)<br>
 - **Bolsista monitor no projeto Vulnerabilidades e COVID-19 pela Faculdade de Saúde Pública (FSPUSP)**
 ##### 06/2020 - 01/2021
 #### **Descrição**: *Aluno monitor responsável por auxiliar na captação e análise de dados no projeto de pesquisa: Poluição do ar  em São Paulo: correlação entre a poluição em São Paulo com internações e óbitos em pacientes com COVID-19 cardiopatas ou com doenças respiratórias - Profa. Nathalia Villa dos Santos*
+___
+
+### Alguns projetos de análise de dados utilizando linguaguem de programação R
+
+- [Análise da tendência temporal do Coeficiente de Mortalidade Infantil entre 2013 e 2019 nos Distritos Administrativos de São Paulo] (https://github.com/Luccan97/Prais_Winsten/blob/master/README.md)
+
