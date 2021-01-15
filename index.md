@@ -2,8 +2,8 @@
 #### Contato: luccanielsen97@gmail.com     /     (11) 945699502
 
 ### Formação
-<p> Aluno de graduação da Faculdade de Saúde Pública da Universidade de São Paulo (USP) <b>
- Início: 01/02/2019 - Término: 31/12/2022 </b>
- <a href="https://github.com/Luccan97/Curriculo/blob/main/historicoescolarListar.pdf" target="_blank">Histórico Escolar.</a>
+<p> Aluno de graduação da Faculdade de Saúde Pública da Universidade de São Paulo (USP)</p>
+ Início: 01/02/2019 - Término: 31/12/2022
+ Aqui está o meu<a href="https://github.com/Luccan97/Curriculo/blob/main/historicoescolarListar.pdf" target="_blank">Histórico Escolar.</a>!
 
 
