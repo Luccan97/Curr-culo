@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
-title: [Currículo]
-description: [Breve apresentação da minha trajetória profissional]
+title: ["Currículo"]
+description: ["Breve apresentação da minha trajetória profissional"]
 logo: [https://raw.githubusercontent.com/Luccan97/Curriculo/main/logo.png]
