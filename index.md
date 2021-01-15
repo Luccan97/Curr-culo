@@ -2,11 +2,15 @@
 ### Análise de dados epidemiológicos e informações em saúde
 ###### E-mail: luccanielsen97@gmail.com     /     celular: (11) 945699502
 ___
+
 ### Formação acadêmica:
-Graduação em Saúde Pública pela Universidade de São Paulo (USP)<br> 
+Graduando em Saúde Pública pela Universidade de São Paulo (USP)<br> 
 <h5> Início: 01/02/2019 | Término: 31/12/2022. Aqui está o meu <a href="https://github.com/Luccan97/Curriculo/blob/main/historicoescolarListar.pdf" target="_blank">Histórico Escolar</a>. </h5>
 
-### Conhecimentos:
+___
+
+
+### Conhecimentos específicos:
 
 - Linguaguem de programação orientada à objetos (software: R)
 - Técnicas de geoprocessamento e georreferenciamento (softwares: QGis, ArcGis, Geoda)
@@ -16,11 +20,13 @@ Graduação em Saúde Pública pela Universidade de São Paulo (USP)<br>
 
 ___
 
+
 ### Formação complementar:
 - Análise de dados epidemiológicos, módulo EpiData (Faculdade de Medicina da Universidade de São Paulo FMUSP)
 - Clustering Geolocation Data Intelligently in Python ([Certificado](https://www.coursera.org/account/accomplishments/certificate/W6BD8XHJXX3Y))
 - The Data Scientist’s Toolbox, Universidade Johns Hopkins ([Cerficiado](https://www.coursera.org/account/accomplishments/verify/HGXFJNW43WQZ))
 ___
+
 
 ### Experiência profissional:
 
@@ -36,6 +42,7 @@ ___
 ##### 06/2020 - 01/2021
  **Descrição**: *Aluno monitor responsável por auxiliar na captação e análise de dados no projeto de pesquisa: Poluição do ar  em São Paulo: correlação entre a poluição em São Paulo com internações e óbitos em pacientes com COVID-19 cardiopatas ou com doenças respiratórias - Profa. Nathalia Villa dos Santos*
 ___
+
 
 ### Alguns projetos de análise de dados utilizando linguaguem de programação R
 
