@@ -4,6 +4,6 @@
 ### Formação
 <p> Aluno de graduação da Faculdade de Saúde Pública da Universidade de São Paulo (USP) <b>
  Início: 01/02/2019 - Término: 31/12/2022 </b>
-  <p> Aqui está o meu ![Histórico Escolar](https://github.com/Luccan97/Curriculo/blob/main/historicoescolarListar.pdf)</p>
+ <a href="https://github.com/Luccan97/Curriculo/blob/main/historicoescolarListar.pdf" target="_blank">PDF.</a>
 
 
