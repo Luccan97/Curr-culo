@@ -1,4 +1,5 @@
 ## Lucca Nielsen
+### Análise de dados epidemiológicos e informações em saúde
 ###### E-mail: luccanielsen97@gmail.com     /     celular: (11) 945699502
 
 ### Formação acadêmica:
@@ -9,4 +10,6 @@ Aluno de graduação da Faculdade de Saúde Pública da Universidade de São Pau
 - Análise de dados epidemiológicos, módulo EpiData (Faculdade de Medicina da Universidade de São Paulo FMUSP)
 - Clustering Geolocation Data Intelligently in Python ([Certificado](https://www.coursera.org/account/accomplishments/certificate/W6BD8XHJXX3Y))
 - The Data Scientist’s Toolbox, Universidade Johns Hopkins ([Cerficiado](https://www.coursera.org/account/accomplishments/verify/HGXFJNW43WQZ))
+
+
 
