@@ -7,6 +7,6 @@ Aluno de graduação da Faculdade de Saúde Pública da Universidade de São Pau
 
 ### Formação complementar:
 - Análise de dados epidemiológicos, módulo EpiData (Faculdade de Medicina da Universidade de São Paulo FMUSP)
-- Clustering Geolocation Data Intelligently in Python (![Certificado](https://www.coursera.org/account/accomplishments/certificate/W6BD8XHJXX3Y))
-- The Data Scientist’s Toolbox, Universidade Johns Hopkins (![Cerficiado](https://www.coursera.org/account/accomplishments/verify/HGXFJNW43WQZ))
+- Clustering Geolocation Data Intelligently in Python ([Certificado](https://www.coursera.org/account/accomplishments/certificate/W6BD8XHJXX3Y))
+- The Data Scientist’s Toolbox, Universidade Johns Hopkins ([Cerficiado](https://www.coursera.org/account/accomplishments/verify/HGXFJNW43WQZ))
 
