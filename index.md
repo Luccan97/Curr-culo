@@ -25,14 +25,14 @@ ___
 - Análise de dados epidemiológicos, módulo EpiData (Faculdade de Medicina da Universidade de São Paulo FMUSP)
 - Clustering Geolocation Data Intelligently in Python ([Certificado](https://www.coursera.org/account/accomplishments/certificate/W6BD8XHJXX3Y))
 - The Data Scientist’s Toolbox, Universidade Johns Hopkins ([Cerficiado](https://www.coursera.org/account/accomplishments/verify/HGXFJNW43WQZ))
-___
 
+___
 
 ### Experiência profissional:
 
 - **Estagiário na Coordenação de Epidemiologia e Informação da Secretária Municipal de Saúde (SMS)**
 ##### 01/2020 - Atual
-**Descrição**: Análise de dados dos diversos sistemas de informação que subsidiam as decisões dentro da gestão da Prefeitura Municipal, tais como Sistema de Informação de Mortalidade (SIM), Sistema de Informação de Nascidos Vivos (SINASC), Sistema de Informações Ambulatoriais (SIA). Organizam e divulgam as informações demográficas e urbanas, indicadores sociais e ambientais e outras informações de interesse da SMS. Produz mapas digitais e impressos com georreferenciamento de eventos e estabelecimentos de saúde, áeas geográficas e outras informações subsidiando e desenvolvimento estudos e análises relevantes à compreensão do processo saúde-doença e aorganização da rede de serviços e cuidados. Como exemplo, este é um <a href="https://github.com/Luccan97/Curriculo/blob/main/Mapa_praticas_corporais.pdf" target="_blank">Mapa de práticas corporais e atividade física por estabelecimentos de saúde no município de São Paulo</a> elaborado durante o estágio.
+**Descrição**: Análise de dados dos diversos sistemas de informação que subsidiam as decisões dentro da gestão da Prefeitura, tais como o Sistema de Informação de Mortalidade (SIM), Sistema de Informação de Nascidos Vivos (SINASC), Sistema de Informações Ambulatoriais (SIA) e outros. Organização das informações demográficas e urbanas, indicadores sociais e ambientais. Produz mapas digitais e impressos com georreferenciamento de eventos e estabelecimentos de saúde, áeas geográficas e outras informações subsidiando e desenvolvimento estudos e análises relevantes à compreensão do processo saúde-doença e da organização da rede de serviços e cuidados. Como exemplo, este é um <a href="https://github.com/Luccan97/Curriculo/blob/main/Mapa_praticas_corporais.pdf" target="_blank">Mapa de práticas corporais e atividades física por estabelecimentos de saúde no município de São Paulo</a> elaborado por mim durante o estágio.
 
 - **Gestor de geoprocessamento no projeto Brigada Solidária da Saúde**
 ##### 03/2020 - 11/2020
