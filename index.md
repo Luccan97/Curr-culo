@@ -6,10 +6,24 @@
 Aluno de graduação da Faculdade de Saúde Pública da Universidade de São Paulo (USP)<br> 
 <h5> Início: 01/02/2019 | Término: 31/12/2022. E Aqui está o meu <a href="https://github.com/Luccan97/Curriculo/blob/main/historicoescolarListar.pdf" target="_blank">Histórico Escolar</a>. </h5>
 
+### Conhecimentos:
+
+- Linguaguem de programação orientada à objetos (software: R)
+- Técnicas de geoprocessamento e georreferenciamento (softwares: QGis, ArcGis, Geoda)
+- Epidemiologia descritiva
+- Pacote Office (Excel, Word, PowerPoint)
+- Inglês avançado
+
 ### Formação complementar:
 - Análise de dados epidemiológicos, módulo EpiData (Faculdade de Medicina da Universidade de São Paulo FMUSP)
 - Clustering Geolocation Data Intelligently in Python ([Certificado](https://www.coursera.org/account/accomplishments/certificate/W6BD8XHJXX3Y))
 - The Data Scientist’s Toolbox, Universidade Johns Hopkins ([Cerficiado](https://www.coursera.org/account/accomplishments/verify/HGXFJNW43WQZ))
+
+### Experiência profissional:
+
+- Estagiário na Coordenação de Epidemiologia e Informação da Secretária Municipal de Saúde
+##### 01/2020 - Atual
+#### Descrição: Análise de dados dos diversos sistemas de informação que subsidiam as decisões dentro da gestão da Prefeitura Municipal, tais como Sistema de Informação de Mortalidade (SIM), Sistema de Informação de Nascidos Vivos (SINASC), Sistema de Informações Ambulatoriais (SIA). Qualificação das informações a partir da construção de indicadores de saúde, técnicas de geoprocessamento e mapeamento e análises temporais e espaciais.
 
 
 
