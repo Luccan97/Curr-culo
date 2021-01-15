@@ -5,7 +5,7 @@ ___
 
 ### Formação acadêmica:
 Graduando em Saúde Pública pela Universidade de São Paulo (USP)<br> 
-<h5> Início: 01/02/2019 | Término: 31/12/2022. Aqui está o meu <a href="https://github.com/Luccan97/Curriculo/blob/main/historicoescolarListar.pdf" target="_blank">Histórico Escolar</a>. </h5>
+<h5> Início: 01/02/2019 | Término: 31/12/2022. <a href="https://github.com/Luccan97/Curriculo/blob/main/historicoescolarListar.pdf" target="_blank">Histórico Escolar</a>. </h5>
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 ### Alguns projetos de análise de dados utilizando linguaguem de programação R
 
-- [Análise da tendência temporal do Coeficiente de Mortalidade Infantil entre 2013 e 2019 nos Distritos Administrativos de São Paulo](https://github.com/Luccan97/Prais_Winsten/blob/master/README.md)
+- [Análise da tendência temporal do Coeficiente de Mortalidade Infantil entre 2013 e 2019 nos Distritos Administrativos de São Paulo: método Prais Winsten](https://github.com/Luccan97/Prais_Winsten/blob/master/README.md)
 
-- [Construindo a pirâmide etáriad e todos os municípios do Estado de São Paulo em poucas linhas!](https://github.com/Luccan97/Piramides_Etarias/blob/master/README.md)
+- [Construindo a pirâmide etária de todos os municípios do Estado de São Paulo em poucas linhas no R!](https://github.com/Luccan97/Piramides_Etarias/blob/master/README.md)
 
