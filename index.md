@@ -26,7 +26,7 @@ ___
 - Clustering Geolocation Data Intelligently in Python ([Certificado](https://www.coursera.org/account/accomplishments/certificate/W6BD8XHJXX3Y))
 - The Data Scientist’s Toolbox, Universidade Johns Hopkins ([Cerficiado](https://www.coursera.org/account/accomplishments/verify/HGXFJNW43WQZ))
 
-___
+---
 
 ### Experiência profissional:
 
@@ -41,8 +41,9 @@ ___
 - **Bolsista monitor no projeto Vulnerabilidades e COVID-19 pela Faculdade de Saúde Pública (FSPUSP)**
 ##### 06/2020 - 01/2021
  **Descrição**: *Aluno monitor responsável por auxiliar na captação e análise de dados no projeto de pesquisa: Poluição do ar  em São Paulo: correlação entre a poluição em São Paulo com internações e óbitos em pacientes com COVID-19 cardiopatas ou com doenças respiratórias - Profa. Nathalia Villa dos Santos*
-___
 
+
+---
 
 ### Alguns projetos de análise de dados utilizando linguaguem de programação R
 
