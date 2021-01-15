@@ -38,7 +38,7 @@ ___
 
 ### Alguns projetos de análise de dados utilizando linguaguem de programação R
 
-- [Análise da tendência temporal do Coeficiente de Mortalidade Infantil entre 2013 e 2019 nos Distritos Administrativos de São Paulo (https://github.com/Luccan97/Prais_Winsten/blob/master/README.md)
+- [Análise da tendência temporal do Coeficiente de Mortalidade Infantil entre 2013 e 2019 nos Distritos Administrativos de São Paulo](https://github.com/Luccan97/Prais_Winsten/blob/master/README.md)
 
 - [Construindo a pirâmide etáriad e todos os municípios do Estado de São Paulo em poucas linhas!](https://github.com/Luccan97/Piramides_Etarias/blob/master/README.md)
 
