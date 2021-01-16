@@ -49,5 +49,5 @@ ___
 
 - [Análise da tendência temporal do Coeficiente de Mortalidade Infantil entre 2013 e 2019 nos Distritos Administrativos de São Paulo: método Prais Winsten](https://github.com/Luccan97/Prais_Winsten/blob/master/README.md)
 
-- [Construindo a pirâmide etária de todos os municípios do Estado de São Paulo em poucas linhas no R!](https://luccan97.github.io/Piramides_Etarias/)
+- [Construindo as pirâmides etárias de todos os municípios do Estado de São Paulo em poucas linhas no R!](https://luccan97.github.io/Piramides_Etarias/)
 
