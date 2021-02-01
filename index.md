@@ -32,7 +32,7 @@ ___
 
 - **Estagiário na Coordenação de Epidemiologia e Informação da Secretária Municipal de Saúde (SMS)**
 ##### 01/2020 - Atual
-** Breve descrição**: Dentro da atual gestão da Prefeitura de São Paulo – faço análise de dados dos diversos sistemas de informação que subsidiam na tomada de decisão da atual gestão; tais como:
+**Breve descrição**: Dentro da atual gestão da Prefeitura de São Paulo – faço análise de dados dos diversos sistemas de informação que subsidiam na tomada de decisão da atual gestão; tais como:
 •	Sistema de Informação de Mortalidade (SIM),
 •	Sistema de Informação de Nascidos Vivos (SINASC), 
 •	Sistema de Informações Ambulatoriais (SIA) dentre outros.
@@ -45,7 +45,7 @@ Atuo na organização das informações demográficas e urbanas, indicadores soc
 
 - **Bolsista monitor no projeto Vulnerabilidades e COVID-19 pela Faculdade de Saúde Pública (FSPUSP)**
 ##### 06/2020 - 01/2021
- ** Breve descrição**: *Aluno monitor responsável por auxiliar na captação e análise de dados no projeto de pesquisa: Poluição do ar  em São Paulo: correlação entre a poluição em São Paulo com internações e óbitos em pacientes com COVID-19 cardiopatas ou com doenças respiratórias - Profa. Nathalia Villa dos Santos*
+ **Breve descrição**: *Aluno monitor responsável por auxiliar na captação e análise de dados no projeto de pesquisa: Poluição do ar  em São Paulo: correlação entre a poluição em São Paulo com internações e óbitos em pacientes com COVID-19 cardiopatas ou com doenças respiratórias - Profa. Nathalia Villa dos Santos*
 
 
 ---
