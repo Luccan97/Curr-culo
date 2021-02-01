@@ -36,7 +36,7 @@ ___
 •	Sistema de Informação de Mortalidade (SIM),
 •	Sistema de Informação de Nascidos Vivos (SINASC), 
 •	Sistema de Informações Ambulatoriais (SIA) dentre outros.
-Atuo na organização das informações demográficas e urbanas, indicadores sociais e ambientais. Produzo mapas digitais e impressos com georreferenciamento de eventos e estabelecimentos de saúde, áeas geográficas e outras informações subsidiando e desenvolvimento estudos e análises relevantes à compreensão do processo saúde-doença e da organização da rede de serviços e cuidados. Para melhor elucidar este é <a href="https://github.com/Luccan97/Curriculo/blob/main/Mapa_praticas_corporais.pdf" target="_blank"> Mapa de práticas corporais e atividades física por estabelecimentos de saúde no município de São Paulo</a> elaborado por mim durante o estágio.
+Atuo na organização das informações demográficas e urbanas, indicadores sociais e ambientais. Produzo mapas digitais e impressos com georreferenciamento de eventos e estabelecimentos de saúde, áeas geográficas e outras informações subsidiando e desenvolvimento estudos e análises relevantes à compreensão do processo saúde-doença e da organização da rede de serviços e cuidados. Para melhor elucidar este é um <a href="https://github.com/Luccan97/Curriculo/blob/main/Mapa_praticas_corporais.pdf" target="_blank"> Mapa de práticas corporais e atividades física por estabelecimentos de saúde no município de São Paulo</a> elaborado por mim durante o estágio.
 
 
 - **Gestor de geoprocessamento no projeto Brigada Solidária da Saúde**
