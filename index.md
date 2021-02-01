@@ -1,5 +1,5 @@
 ## Lucca Nielsen
-### Análise de dados epidemiológicos e informações em saúde
+### Experiência em análise de dados epidemiológicos e informações na área de saúde
 ###### E-mail: luccanielsen97@gmail.com     /     celular: (11) 945699502
 ___
 
@@ -22,9 +22,9 @@ ___
 
 
 ### Formação complementar:
-- Análise de dados epidemiológicos, módulo EpiData (Faculdade de Medicina da Universidade de São Paulo FMUSP)
-- Clustering Geolocation Data Intelligently in Python ([Certificado](https://www.coursera.org/account/accomplishments/certificate/W6BD8XHJXX3Y))
-- The Data Scientist’s Toolbox, Universidade Johns Hopkins ([Cerficiado](https://www.coursera.org/account/accomplishments/verify/HGXFJNW43WQZ))
+- Análise de dados epidemiológicos, módulo EpiData - Faculdade de Medicina da Universidade de São Paulo FMUSP (Conslusão 05/2019)
+- Clustering Geolocation Data Intelligently in Python ([Certificado de conclusão 25/08/2020](https://www.coursera.org/account/accomplishments/certificate/W6BD8XHJXX3Y))
+- The Data Scientist’s Toolbox, Universidade Johns Hopkins ([Cerficiado de conclusão 07/11/2020](https://www.coursera.org/account/accomplishments/verify/HGXFJNW43WQZ))
 
 ---
 
@@ -32,15 +32,20 @@ ___
 
 - **Estagiário na Coordenação de Epidemiologia e Informação da Secretária Municipal de Saúde (SMS)**
 ##### 01/2020 - Atual
-**Descrição**: Análise de dados dos diversos sistemas de informação que subsidiam as decisões dentro da gestão da Prefeitura, tais como o Sistema de Informação de Mortalidade (SIM), Sistema de Informação de Nascidos Vivos (SINASC), Sistema de Informações Ambulatoriais (SIA) e outros. Organização das informações demográficas e urbanas, indicadores sociais e ambientais. Produz mapas digitais e impressos com georreferenciamento de eventos e estabelecimentos de saúde, áeas geográficas e outras informações subsidiando e desenvolvimento estudos e análises relevantes à compreensão do processo saúde-doença e da organização da rede de serviços e cuidados. Como exemplo, este é um <a href="https://github.com/Luccan97/Curriculo/blob/main/Mapa_praticas_corporais.pdf" target="_blank">Mapa de práticas corporais e atividades física por estabelecimentos de saúde no município de São Paulo</a> elaborado por mim durante o estágio.
+** Breve descrição**: Dentro da atual gestão da Prefeitura de São Paulo – faço análise de dados dos diversos sistemas de informação que subsidiam na tomada de decisão da atual gestão; tais como:
+•	Sistema de Informação de Mortalidade (SIM),
+•	Sistema de Informação de Nascidos Vivos (SINASC), 
+•	Sistema de Informações Ambulatoriais (SIA) dentre outros.
+Atuo na organização das informações demográficas e urbanas, indicadores sociais e ambientais. Produzo mapas digitais e impressos com georreferenciamento de eventos e estabelecimentos de saúde, áeas geográficas e outras informações subsidiando e desenvolvimento estudos e análises relevantes à compreensão do processo saúde-doença e da organização da rede de serviços e cuidados. Para melhor elucidar este é <a href="https://github.com/Luccan97/Curriculo/blob/main/Mapa_praticas_corporais.pdf" target="_blank"> Mapa de práticas corporais e atividades física por estabelecimentos de saúde no município de São Paulo</a> elaborado por mim durante o estágio.
+
 
 - **Gestor de geoprocessamento no projeto Brigada Solidária da Saúde**
 ##### 03/2020 - 11/2020
- **Descrição**: *Durante os meses iniciais da pandemia de coronavírus e quarentena em São Paulo, um grupo de estudantes da USP desenvolveu um projeto sem fins lucrativos que tinha como objetivo construir uma ponte entre instituições, organizações de bairro e associações que necessitavam de doações e pessoas que gostariam de ajudar. Atuei na organização do mapeamento colaborativo, sendo responsável pelo georreferenciamento e geoprocessamento de informações espaciais. O jornal USP escreveu a matéria [Plataforma mapeia ações solidárias para atenuar efeitos da covid-19](https://jornal.usp.br/universidade/plataforma-mapeia-acoes-solidarias-para-atenuar-efeitos-da-covid-19/) divulgando o projeto, que pode ser conhecido [neste link](https://brigadasolidariadasaude.com/pt_br/sobre/).*
+ **Breve descrição**: *Durante os meses iniciais da pandemia de coronavírus e quarentena em São Paulo, um grupo de estudantes da USP desenvolveu um projeto sem fins lucrativos que tinha como objetivo construir uma ponte entre instituições, organizações de bairro e associações que necessitavam de doações e pessoas que gostariam de ajudar. Atuei na organização do mapeamento colaborativo, sendo responsável pelo georreferenciamento e geoprocessamento de informações espaciais. O jornal USP escreveu a matéria [Plataforma mapeia ações solidárias para atenuar efeitos da covid-19](https://jornal.usp.br/universidade/plataforma-mapeia-acoes-solidarias-para-atenuar-efeitos-da-covid-19/) divulgando o projeto, que pode ser conhecido [neste link](https://brigadasolidariadasaude.com/pt_br/sobre/).*
 
 - **Bolsista monitor no projeto Vulnerabilidades e COVID-19 pela Faculdade de Saúde Pública (FSPUSP)**
 ##### 06/2020 - 01/2021
- **Descrição**: *Aluno monitor responsável por auxiliar na captação e análise de dados no projeto de pesquisa: Poluição do ar  em São Paulo: correlação entre a poluição em São Paulo com internações e óbitos em pacientes com COVID-19 cardiopatas ou com doenças respiratórias - Profa. Nathalia Villa dos Santos*
+ ** Breve descrição**: *Aluno monitor responsável por auxiliar na captação e análise de dados no projeto de pesquisa: Poluição do ar  em São Paulo: correlação entre a poluição em São Paulo com internações e óbitos em pacientes com COVID-19 cardiopatas ou com doenças respiratórias - Profa. Nathalia Villa dos Santos*
 
 
 ---
