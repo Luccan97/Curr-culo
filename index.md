@@ -12,8 +12,8 @@ ___
 
 ### Conhecimentos específicos:
 
-- Linguaguem de programação orientada à objetos (software: R)
-- Técnicas de geoprocessamento e georreferenciamento (softwares: QGis, ArcGis, Geoda)
+- Linguaguem de programação orientada à objetos (R)
+- Técnicas de geoprocessamento e georreferenciamento (softwares: QGis, ArcGis, Geoda, SatSCAN)
 - Epidemiologia descritiva
 - Pacote Office (Excel, Word, PowerPoint)
 - Inglês avançado
@@ -29,6 +29,14 @@ ___
 ---
 
 ### Experiência profissional:
+
+- **Analista de dados epidemiológicos no Centro de Vigilância Epidemiológica do Estado de São Paulo**
+##### 02/2021 - Atual
+**Breve descrição**: Apoio técnico dentro da Divisão de Vigilância de Doenças de Transmissão Respiratória.
+• Construção de indicadores epidemiológicos e de processo,
+•	Vigilância da Sindrome Multissistêmica Pediátrica associada ao Coronavírus (SIM-P), 
+•	Manutenção de scripts de R cuja função é limpar e organizar os diversos bancos de dados gerados a partir das notificações das doenças de interesse para a vigilância de doenças de transmissão respiratória, sobretudo a Síndrome Respiratória Aguda Grave (SRAG). 
+
 
 - **Estagiário na Coordenação de Epidemiologia e Informação da Secretária Municipal de Saúde (SMS)**
 ##### 01/2020 - Atual
@@ -46,6 +54,7 @@ Atuo na organização das informações demográficas e urbanas, indicadores soc
 - **Bolsista monitor no projeto Vulnerabilidades e COVID-19 pela Faculdade de Saúde Pública (FSPUSP)**
 ##### 06/2020 - 01/2021
  **Breve descrição**: *Aluno monitor responsável por auxiliar na captação e análise de dados no projeto de pesquisa: Poluição do ar  em São Paulo: correlação entre a poluição em São Paulo com internações e óbitos em pacientes com COVID-19 cardiopatas ou com doenças respiratórias - Profa. Nathalia Villa dos Santos*
+ * O projeto foi apresentado no Congresso Internacional Planetary Health - USP 2021 em formato de <a href="https://github.com/Luccan97/Curriculo/blob/main/POSTER LUCCA.pptx (1).pdf" target="_blank"> POSTER. O certificado de participação no congresso pode ser encontrado  <a href="https://github.com/Luccan97/Curriculo/blob/main/imgdocemi.pdf" target="_blank"> aqui.
 
 
 ---
