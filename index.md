@@ -53,8 +53,8 @@ Atuo na organização das informações demográficas e urbanas, indicadores soc
 
 - **Bolsista monitor no projeto Vulnerabilidades e COVID-19 pela Faculdade de Saúde Pública (FSPUSP)**
 ##### 06/2020 - 01/2021
- **Breve descrição**: *Aluno monitor responsável por auxiliar na captação e análise de dados no projeto de pesquisa: Poluição do ar  em São Paulo: correlação entre a poluição em São Paulo com internações e óbitos em pacientes com COVID-19 cardiopatas ou com doenças respiratórias - Profa. Nathalia Villa dos Santos*
- * O projeto foi apresentado no Congresso Internacional Planetary Health - USP 2021 em formato de <a href="https://github.com/Luccan97/Curriculo/blob/main/POSTER LUCCA.pptx (1).pdf" target="_blank"> POSTER </a>. O certificado de participação no congresso pode ser encontrado  <a href="https://github.com/Luccan97/Curriculo/blob/main/imgdocemi.pdf" target="_blank"> aqui.</a>
+ **Breve descrição**: *Aluno monitor responsável por auxiliar na captação e análise de dados no projeto de pesquisa: Poluição do ar  em São Paulo: correlação entre a poluição em São Paulo com internações e óbitos em pacientes com COVID-19 cardiopatas ou com doenças respiratórias - Profa. Nathalia Villa dos Santos
+O projeto foi apresentado no Congresso Internacional Planetary Health - USP 2021 em formato de <a href="https://github.com/Luccan97/Curriculo/blob/main/POSTER LUCCA.pptx (1).pdf" target="_blank"> POSTER </a>. O certificado de participação no congresso pode ser encontrado  <a href="https://github.com/Luccan97/Curriculo/blob/main/imgdocemi.pdf" target="_blank"> aqui.</a>*
 
 
 ---
