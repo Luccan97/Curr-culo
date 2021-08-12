@@ -1,7 +1,7 @@
 ## Lucca Nielsen
 ### Experiência em análise de dados epidemiológicos e geoprocessamento
 ###### E-mail: luccanielsen97@gmail.com     /     celular: (11) 945699502
-###### [Linkedin](https://www.linkedin.com/in/lucca-nielsen-53b2a9181/)
+##### [Linkedin](https://www.linkedin.com/in/lucca-nielsen-53b2a9181/)
 ___
 
 ### Formação acadêmica:
