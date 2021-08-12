@@ -1,6 +1,7 @@
 ## Lucca Nielsen
-### Experiência em análise de dados epidemiológicos e informações na área de saúde
+### Experiência em análise de dados epidemiológicos e geoprocessamento
 ###### E-mail: luccanielsen97@gmail.com     /     celular: (11) 945699502
+###### Linkedin: https://www.linkedin.com/in/lucca-nielsen-53b2a9181/
 ___
 
 ### Formação acadêmica:
@@ -12,9 +13,10 @@ ___
 
 ### Conhecimentos específicos:
 
-- Linguaguem de programação orientada à objetos (R)
+- Linguaguem de programação orientada a objetos (R)
 - Técnicas de geoprocessamento e georreferenciamento (softwares: QGis, ArcGis, Geoda, SatSCAN)
 - Epidemiologia descritiva
+- Saúde Pública
 - Pacote Office (Excel, Word, PowerPoint)
 - Inglês avançado
 
