@@ -63,6 +63,8 @@ O projeto foi apresentado no Congresso Internacional Planetary Health - USP 2021
 
 ### Alguns projetos de análise de dados utilizando linguaguem de programação R
 
+- Dashboard - [Standardized Mortality Rate in Brazil.](https://6c6yvn-lucca0nielsen.shinyapps.io/StandardizedMortality_Brazil/)
+
 - [Análise da tendência temporal do Coeficiente de Mortalidade Infantil entre 2013 e 2019 nos Distritos Administrativos de São Paulo: método Prais Winsten](https://luccan97.github.io/Prais_Winsten/)
 
 - [Construindo as pirâmides etárias de todos os municípios do Estado de São Paulo em poucas linhas no R!](https://luccan97.github.io/Piramides_Etarias/)
