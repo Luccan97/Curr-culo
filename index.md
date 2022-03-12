@@ -1,71 +1,70 @@
 ## Lucca Nielsen
 ### Epidemiological data analysis and geoprocessing
-###### E-mail: luccanielsen@usp.br     /     cel: (11) 945699502
+###### E-mail: luccanielsen@usp.br / cell: (11) 945699502
 ##### [Linkedin](https://www.linkedin.com/in/lucca-nielsen-53b2a9181/)
 ___
 
-### Formação acadêmica:
-Graduando em Saúde Pública pela Universidade de São Paulo (USP)<br> 
-<h5> Início: 01/02/2019 | Término: 31/12/2022. <a href="https://github.com/Luccan97/Curriculo/blob/main/historicoescolarListar.pdf" target="_blank">Histórico Escolar</a>. </h5>
+### Academic education:
+Graduating in Public Health at the University of São Paulo (USP)<br>
+<h5> Start: 02/01/2019 | End: 12/31/2022. <a href="https://github.com/Luccan97/Curriculo/blob/main/historicoescolarListar.pdf" target="_blank">Historic</a>. </h5>
 
 ___
 
+### Specific knowledge:
 
-### Conhecimentos específicos:
+- Object-oriented programming language (R)
+- Creating dashbaords with Shiny
+- Creat reports with Rmarkdown
+- Interative maps with Leaflet
+- Geoprocessing and georeferencing techniques (softwares: QGis, ArcGis, Geoda, SatSCAN)
+- Descriptive epidemiology
+- Public health data analytics
+- Office package (Excel, Word, PowerPoint)
+- Advanced English
 
-- Linguaguem de programação orientada a objetos (R)
-- Técnicas de geoprocessamento e georreferenciamento (softwares: QGis, ArcGis, Geoda, SatSCAN)
-- Epidemiologia descritiva
-- Saúde Pública
-- Pacote Office (Excel, Word, PowerPoint)
-- Inglês avançado
 
-___
-
-
-### Formação complementar:
-- Análise de dados epidemiológicos, módulo EpiData - Faculdade de Medicina da Universidade de São Paulo FMUSP (Conslusão 05/2019)
-- Clustering Geolocation Data Intelligently in Python ([Certificado de conclusão 25/08/2020](https://www.coursera.org/account/accomplishments/certificate/W6BD8XHJXX3Y))
-- The Data Scientist’s Toolbox, Universidade Johns Hopkins ([Cerficiado de conclusão 07/11/2020](https://www.coursera.org/account/accomplishments/verify/HGXFJNW43WQZ))
+### Complementary training:
+- Analysis of epidemiological data, EpiData module - Faculty of Medicine of the University of São Paulo FMUSP (Conclusion 05/2019)
+- Clustering Geolocation Data Intelligently in Python ([Certificate of completion 8/25/2020](https://www.coursera.org/account/accomplishments/certificate/W6BD8XHJXX3Y))
+- The Data Scientist’s Toolbox, Johns Hopkins University ([Certificate of Completion 11/7/2020](https://www.coursera.org/account/accomplishments/verify/HGXFJNW43WQZ))
 
 ---
 
-### Experiência profissional:
+### Professional experience:
 
-- **Analista de dados epidemiológicos no Centro de Vigilância Epidemiológica do Estado de São Paulo**
-##### 02/2021 - Atual
-**Breve descrição**: Apoio técnico dentro da Divisão de Vigilância de Doenças de Transmissão Respiratória.
-• Construção de indicadores epidemiológicos e de processo,
-•	Vigilância da Sindrome Multissistêmica Pediátrica associada ao Coronavírus (SIM-P), 
-•	Manutenção de scripts de R cuja função é limpar e organizar os diversos bancos de dados gerados a partir das notificações das doenças de interesse para a vigilância de doenças de transmissão respiratória, sobretudo a Síndrome Respiratória Aguda Grave (SRAG). 
-
-
-- **Estagiário na Coordenação de Epidemiologia e Informação da Secretária Municipal de Saúde (SMS)**
-##### 01/2020 - Atual
-**Breve descrição**: Dentro da atual gestão da Prefeitura de São Paulo – faço análise de dados dos diversos sistemas de informação que subsidiam na tomada de decisão da atual gestão; tais como:
-•	Sistema de Informação de Mortalidade (SIM),
-•	Sistema de Informação de Nascidos Vivos (SINASC), 
-•	Sistema de Informações Ambulatoriais (SIA) dentre outros.
-Atuo na organização das informações demográficas e urbanas, indicadores sociais e ambientais. Produzo mapas digitais e impressos com georreferenciamento de eventos e estabelecimentos de saúde, áeas geográficas e outras informações subsidiando e desenvolvimento estudos e análises relevantes à compreensão do processo saúde-doença e da organização da rede de serviços e cuidados. Para melhor elucidar este é um <a href="https://github.com/Luccan97/Curriculo/blob/main/Mapa_praticas_corporais.pdf" target="_blank"> Mapa de práticas corporais e atividades física por estabelecimentos de saúde no município de São Paulo</a> elaborado por mim durante o estágio.
+- **Epidemiological data analyst at the Epidemiological Surveillance Center of the State of São Paulo**
+##### 02/2021 - Current
+**Brief description**: Technical support within the Respiratory Transmitted Disease Surveillance Division.
+• Construction of epidemiological and process indicators,
+• Surveillance of Pediatric Multisystem Syndrome Associated with Coronavirus (SIM-P),
+• Maintenance of R scripts whose function is to clean and organize the various databases generated from notifications of diseases of interest for the surveillance of respiratory transmission diseases, especially Severe Acute Respiratory Syndrome (SARS).
 
 
-- **Gestor de geoprocessamento no projeto Brigada Solidária da Saúde**
+- **Intern at the Epidemiology and Information Coordination of the Municipal Health Department (SMS)**
+##### 01/2020 - Current
+**Brief description**: Within the current management of the Municipality of São Paulo – I analyze data from the various information systems that support the decision-making of the current management; such as:
+• Mortality Information System (SIM),
+• Live Birth Information System (SINASC),
+• Outpatient Information System (SIA) among others.
+I work in the organization of demographic and urban information, social and environmental indicators. I produce digital and printed maps with georeferencing of events and health establishments, geographic areas and other information supporting and developing studies and analyzes relevant to the understanding of the health-disease process and the organization of the service and care network. To better elucidate this is a <a href="https://github.com/Luccan97/Curriculo/blob/main/Mapa_praticas_corporais.pdf" target="_blank"> Map of body practices and physical activities by health facilities in the municipality of São Paulo</a> prepared by me during the internship.
+
+
+- **Geoprocessing manager in the Brigada Solidária da Saúde project**
 ##### 03/2020 - 11/2020
- **Breve descrição**: *Durante os meses iniciais da pandemia de coronavírus e quarentena em São Paulo, um grupo de estudantes da USP desenvolveu um projeto sem fins lucrativos que tinha como objetivo construir uma ponte entre instituições, organizações de bairro e associações que necessitavam de doações e pessoas que gostariam de ajudar. Atuei na organização do mapeamento colaborativo, sendo responsável pelo georreferenciamento e geoprocessamento de informações espaciais. O jornal USP escreveu a matéria [Plataforma mapeia ações solidárias para atenuar efeitos da covid-19](https://jornal.usp.br/universidade/plataforma-mapeia-acoes-solidarias-para-atenuar-efeitos-da-covid-19/) divulgando o projeto, que pode ser conhecido [neste link](https://brigadasolidariadasaude.com/pt_br/sobre/).*
-
-- **Bolsista monitor no projeto Vulnerabilidades e COVID-19 pela Faculdade de Saúde Pública (FSPUSP)**
+ **Brief description**: *During the initial months of the coronavirus pandemic and quarantine in São Paulo, a group of USP students developed a non-profit project that aimed to build a bridge between institutions, neighborhood organizations and associations that needed donations and people who would like to help. I worked in the organization of collaborative mapping, being responsible for the georeferencing and geoprocessing of spatial information. The USP newspaper wrote the article [Platform maps solidarity actions to mitigate the effects of covid-19](https://jornal.usp.br/universidade/plataforma-mapeia-acoes-solidarias-para-atenuar-efeitos-da-covid- 19/) publicizing the project, which can be known [at this link](https://brigadasolidariadasaude.com/pt_br/sobre/).*
+ 
+- **Monitor fellow in the Vulnerabilities and COVID-19 project by the Faculty of Public Health (FSPUSP)**
 ##### 06/2020 - 01/2021
- **Breve descrição**: *Aluno monitor responsável por auxiliar na captação e análise de dados no projeto de pesquisa: Poluição do ar  em São Paulo: correlação entre a poluição em São Paulo com internações e óbitos em pacientes com COVID-19 cardiopatas ou com doenças respiratórias - Profa. Nathalia Villa dos Santos
-O projeto foi apresentado no Congresso Internacional Planetary Health - USP 2021 em formato de <a href="https://github.com/Luccan97/Curriculo/blob/main/POSTER LUCCA.pptx (1).pdf" target="_blank"> POSTER </a>. O certificado de participação no congresso pode ser encontrado  <a href="https://github.com/Luccan97/Curriculo/blob/main/imgdocemi.pdf" target="_blank"> aqui.</a>*
-
+ **Brief description**: *Student monitor responsible for assisting in the capture and analysis of data in the research project: Air pollution in São Paulo: correlation between pollution in São Paulo with hospitalizations and deaths in patients with COVID-19 with heart disease or with respiratory diseases - Prof. Natalia Villa dos Santos
+The project was presented at the International Planetary Health Congress - USP 2021 in the format of <a href="https://github.com/Luccan97/Curriculo/blob/main/POSTER LUCCA.pptx (1).pdf" target="_blank "> POSTER </a>. The congress participation certificate can be found <a href="https://github.com/Luccan97/Curriculo/blob/main/imgdocemi.pdf" target="_blank"> here.</a>*
 
 ---
 
-### Alguns projetos de análise de dados utilizando linguaguem de programação R
+### Projects
 
 - Dashboard - [Standardized Mortality Rate in Brazil.](https://6c6yvn-lucca0nielsen.shinyapps.io/StandardizedMortality_Brazil/)
 
-- [Análise da tendência temporal do Coeficiente de Mortalidade Infantil entre 2013 e 2019 nos Distritos Administrativos de São Paulo: método Prais Winsten](https://luccan97.github.io/Prais_Winsten/)
+- [Analysis of the time trend of the Infant Mortality Coefficient between 2013 and 2019 in the Administrative Districts of São Paulo: Prais Winsten method](https://luccan97.github.io/Prais_Winsten/)
 
-- [Construindo as pirâmides etárias de todos os municípios do Estado de São Paulo em poucas linhas no R!](https://luccan97.github.io/Piramides_Etarias/)
+- [Building the age pyramids of all municipalities in the State of São Paulo in a few lines in R!](https://luccan97.github.io/Piramides_Etarias/)
 
