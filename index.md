@@ -41,7 +41,7 @@ ___
 
 
 - **Intern at the Epidemiology and Information Coordination of the Municipal Health Department (SMS)**
-##### 01/2020 - Current
+##### 01/2020 - 11/2021
 **Brief description**: Within the current management of the Municipality of São Paulo – I analyze data from the various information systems that support the decision-making of the current management; such as:
 • Mortality Information System (SIM),
 • Live Birth Information System (SINASC),
